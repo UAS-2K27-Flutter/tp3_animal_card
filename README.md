@@ -1,16 +1,22 @@
-# tp3_animal_card
+# TP 3 - Carte d'information : Mon Animal Favori
 
-A new Flutter project.
+Application Flutter qui affiche une carte de présentation d'un animal favori.
 
-## Getting Started
+## Contenu de la carte
+- Image de l'animal
+- Nom de l'animal (titre)
+- Courte description
+- Ligne d'informations avec icônes (âge, habitat, poids)
+- Bouton "En savoir plus"
 
-This project is a starting point for a Flutter application.
+## Widgets utilisés
+Scaffold, AppBar, Center, Container, BoxDecoration, Column, Row, SizedBox, Image, Icon, Text, ElevatedButton
 
-A few resources to get you started if this is your first Flutter project:
+## Lancer le projet
+```
+flutter pub get
+flutter run
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Auteur
+Mohamed Moncef Haddad - UAS/ESIET
